@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Sakura Supervision",
+    "slug": "sakura-supervision",
+    "version": "1.0.0",
+    "orientation": "default",
+    "scheme": "sakura-supervision",
+    "platforms": ["web", "android"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
